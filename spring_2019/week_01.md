@@ -5,9 +5,12 @@
 > This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
 > learned how to send requests in JavaScript to the backend API.
 
+I am still familiarizing myself with the code.
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
+
+Identify problem with window creation/manipulation.
 
 > After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
 > I also plan on attending the git workshop this week.
